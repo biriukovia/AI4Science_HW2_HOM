@@ -1,0 +1,15 @@
+{
+  "source_repository": "https://github.com/biriukovia/HOM_project_new",
+  "submission_repository": "https://github.com/biriukovia/AI4Science_HW2_HOM",
+  "operation": "git fast-export of explicit HW2 paths and fast-import into a new repository; original repository unchanged",
+  "original_to_submission_commit": {
+    "708362feb8c698fb0649483375e7853b9efdfd8f": "f2d2cce83b5af538a690d53fff52b47e33c531e7",
+    "d193aa971ffa25ad0adaa67818fb6b2f212e8d89": "fcab325928acf8a4bf62b86b8d620f87f85038d4",
+    "b434d0c3beadc3c5d1b527b551b2e3afd6209a82": "5b998ddb5dc59cfba284b5f960a8018a2feaff5c",
+    "2d40fe92c54d83107493df27ee8794ac7c13a8cf": "f51fe3328240e7849fef924aded9509de603e00d",
+    "a3c2ff9756b077088627ed08c16d137b4b66f4aa": "d95b8f0193fcc1a448344e3b06d7585d538deec7",
+    "8f85a283772e035dd405cd7b8321722c0163cdb7": "c183e00325ec60c8c9902f22d7c7ec9f8f9e9c82",
+    "2a2ff9f9c943e05e8f0ccecfb24666d5f140c7ac": "b990226375eec90a174e9a8de5d2a93c5e43fb9f"
+  },
+  "raw_results_policy": "original paths, dates and hashes inside saved results unchanged; use this mapping to locate imported commits"
+}
